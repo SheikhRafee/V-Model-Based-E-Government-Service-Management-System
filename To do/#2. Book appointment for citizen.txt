@@ -1,0 +1,1 @@
+As a Citizen, I want to book an appointment so that I can receive healthcare services.

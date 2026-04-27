@@ -1,0 +1,1 @@
+As a Citizen, I want to view my prescription and reports so that I can follow treatment properly.

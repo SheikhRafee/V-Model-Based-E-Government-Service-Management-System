@@ -1,0 +1,1 @@
+As a Citizen, I want to view my medical records so that I can track my health history.
