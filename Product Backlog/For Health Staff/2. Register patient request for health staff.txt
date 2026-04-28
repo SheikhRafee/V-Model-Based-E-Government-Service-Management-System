@@ -1,1 +1,1 @@
-As a health staff, I want to register patient requests so that I can assist patients.
+As a health staff, I want to register patient requests so that I can assist patients. (Card 2)
