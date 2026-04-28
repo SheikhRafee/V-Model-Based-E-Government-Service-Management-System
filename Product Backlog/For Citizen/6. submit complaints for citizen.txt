@@ -1,1 +1,1 @@
-As a Citizen, I want to submit complaints so that I can report issues.
+As a Citizen, I want to submit complaints so that I can report issues. (card 6)
