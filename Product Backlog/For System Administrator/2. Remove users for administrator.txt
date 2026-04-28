@@ -1,0 +1,1 @@
+As a system administrator, I want to remove users so that unauthorized users can not access system.
